@@ -98,5 +98,5 @@ Pour chaque ligne du fichier :
 
 💬 Auteurs & Contact
 
-Créé par [Ton Nom ou Ton Pseudo GitHub]
+Créé par 36Nabaloum/e.nabalom@gmailcom
 N'hésitez pas à ouvrir une issue ou à me contacter pour toute question ou amélioration !
